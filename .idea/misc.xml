@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="uv (acharya_erp_api)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="uv (acharya_erp_api)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="uv (erp)" project-jdk-type="Python SDK" />
 </project>
